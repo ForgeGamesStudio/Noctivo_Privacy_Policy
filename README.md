@@ -7,8 +7,6 @@ Static privacy policy for the Noctivo Android video player by ForgeGamesStudio.
 - Contact: forgegamesstudio@gmail.com
 - No build step, JavaScript, external fonts, analytics or cookies.
 
-GitHub Pages: Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
-
 Expected public URL after successful deployment:
 https://forgegamesstudio.github.io/Noctivo_Privacy_Policy/
 
